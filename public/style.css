@@ -1,0 +1,59 @@
+.table-container{
+        border:solid 1px black;
+}
+.logo-img{
+        width:100px;
+        border-radius:50%;
+        border:2px solid black;
+        display:inline-block;
+        margin-left:10px;
+        
+        
+}
+.underl{
+        text-decoration: none;
+}
+.butt{
+        display:flex;
+        justify-content: space-evenly;
+      
+
+}
+.app-items{
+      margin :30px;
+}
+.app-items-list{
+        display:inline-block;
+        margin:20px;
+}
+.dash{
+        margin:5px auto;
+}
+.list-head{
+        margin:10px;
+}
+ .labelling{
+        
+       margin-left: 10px;
+} 
+.sort-list{
+        display:inline-block;
+        margin:30px;
+        
+}
+/* .list-item{
+        margin :20px;
+} */
+.home{
+        display:flex;
+        justify-content: space-around;
+        
+}
+
+h3{
+        font-size: 2rem;
+        display: inline;
+        position:absolute;
+        right:0;
+        margin-right:50px;
+}
